@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá mundo! 👋
 
-<!--
-**rafaellore/rafaellore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨🏻‍💻 Rafael Moreira
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/david-santos-a482041b2/)](https://www.linkedin.com/in/david-santos-a482041b2/)
+### Bem vindo ao meu Github!
+Meu nome é Rafael, tenho 19 anos, tenho ensino técnico em Análise e Desenvolvimento de Sistemas. Atualmente moro em Itapecerica da Serra - SP e sigo minha caminhada aprendendo cada vez mais sobre programação!
+- 👨🏻‍💻 Front-end Jr.
+- 🔍 Atualmente aberto a novas oportunidades.
+- 📰 Trabalho com a stack Node.js, React e React-Native.
+- 📡 Neste momento busco oportunidades como Desenvolvedor Junior.
+- 💬 Sobre mim: Apaixonado por games e tecnologia!
