@@ -9,12 +9,10 @@
   <img align="center" alt="rafael-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="rafael-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Rafa-yoda"  width="150" height="150" src="https://media.tenor.com/images/90c00705413b7f56a4e3c3a76e831ce2/tenor.gif">
 </div>
   
   ##
-
- 
- ##
  
 <div> 
 
