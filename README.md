@@ -12,6 +12,10 @@
 </div>
   
   ##
+
+ ![Snake animation](https://github.com/rafaellore/rafaellore/blob/output/github-contribution-grid-snake.svg)
+ 
+ ##
  
 <div> 
 
@@ -20,3 +24,5 @@
  
  
 </div>
+ 
+
