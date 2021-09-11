@@ -8,7 +8,7 @@ Meu nome é Rafael, tenho ensino técnico em Análise e Desenvolvimento de Siste
 - 📰 Atualmente utilizo Node.js, React e React-Native.
 - 💬 Sobre mim: Apaixonado por games e tecnologia!
 ##
-<div>
+<div  style="display: inline_block">
   <a href="https://github.com/rafaellore">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaellore&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaellore&layout=compact&langs_count=7&theme=dark"/>
