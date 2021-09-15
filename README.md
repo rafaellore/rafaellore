@@ -24,11 +24,3 @@
  
 ![Snake animation](https://github.com/rafaellore/rafaellore/blob/output/github-contribution-grid-snake.svg) 
  
- 
- ### fetch('https://ghibliapi.herokuapp.com/films')
-  .then(response => response.json())
-  .then(data => {
-    
-  }).catch(err => {
-   
-  });
