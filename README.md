@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael Moreira
 
 
-- :telescope: Atualmente estou trabalhando como desenvolvedor Front-end Júnior, usando ReactJS
+- :telescope: Atualmente estou trabalhando como desenvolvedor Front-end, usando NextJS, ReactJS e MUI.
 
 - :seedling: Atualmente estou aprendendo sobre ReactJS, NextJS e TypeScript
 
