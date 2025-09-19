@@ -7,7 +7,7 @@
 <p align="left">✨ Possuo 3 anos de experiência como desenvolvedor frontend. Já utilizei tecnologias como ReactJS, TypeScript, CSS-in-JS,
 NextJS, TailwindCSS, MaterialUI, Jest, Redux, e outras techs relacionadas;
 
-<br>📚 Atualmente estou aprendendo tecnologias relacionadas a backend, como NodeJS, NestJS, Express, TypeORM, MongoDB, etc.<br></p>
+<br>📚 Atualmente estou aprendendo tecnologias relacionadas a backend, como NodeJS, NestJS, Prisma, Express, TypeORM, MongoDB, etc.<br></p>
 
 ###
 
